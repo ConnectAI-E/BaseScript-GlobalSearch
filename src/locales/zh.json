@@ -1,0 +1,14 @@
+{
+  "load_error.1":"运行项目后，请获取 webview 地址，粘贴至多维表格「扩展脚本」中使用。详见：",
+  "load.guide":"开发指南",
+  "btn.search":"搜索",
+  "action":"操作",
+  "open.new.window":"在新窗口中打开",
+  "search.label":"搜索内容",
+  "plz.enter.1":"请输入搜索内容",
+  "search.tooltip":"更强大的搜索：搜索原始数据格式，可以搜索人员的email，附件文件类型，群链接等表格未直接显示的数据；搜索结果将以原始数据呈现。注意：开启此项后正则表达式的^$将失效",
+  "search.usereg":"搜索内容使用正则表达式",
+  "search.detail":"精细搜索",
+  "search.table.label":"搜索范围-数据表",
+  "search.table.desc":"请选择数据表"
+}

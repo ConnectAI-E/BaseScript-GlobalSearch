@@ -1,0 +1,14 @@
+{
+    "load_error.1": "Sau khi chạy dự án, vui lòng lấy địa chỉ webview và dán vào bảng \"Extended Script\" để sử dụng. Xem thêm:",
+  "load.guide": "Hướng dẫn phát triển",
+   "btn.search": "Tìm kiếm",
+   "hành động": "hành động",
+   "open.new.window": "Mở trong cửa sổ mới",
+   "search.label": "Tìm kiếm nội dung",
+   "plz.enter.1": "Xin vui lòng nhập nội dung tìm kiếm",
+   "search.tooltip": "Tìm kiếm mạnh mẽ hơn: tìm kiếm ở định dạng dữ liệu gốc, bạn có thể tìm kiếm dữ liệu không được hiển thị trực tiếp trong bảng, chẳng hạn như email, loại tệp đính kèm, liên kết nhóm, v.v.; kết quả tìm kiếm sẽ được hiển thị trong dữ liệu gốc. Lưu ý: bật tùy chọn này ^$ của biểu thức chính quy tiếp theo sẽ không hợp lệ",
+   "search.usereg": "Tìm kiếm nội dung bằng biểu thức chính quy",
+   "search.detail": "Tìm kiếm tinh tế",
+   "search.table.label": "Phạm vi tìm kiếm - bảng dữ liệu",
+   "search.table.desc": "Vui lòng chọn bảng dữ liệu"
+}

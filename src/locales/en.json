@@ -1,0 +1,14 @@
+{
+    "load_error.1":"After running the project, please get the webview address and paste it into the multidimensional table \"Extended Script\" for use. See: ",
+   "load.guide": "Development Guide",
+   "btn.search": "Search",
+   "action": "action",
+   "open.new.window": "Open in a new window",
+   "search.label": "Search content",
+   "plz.enter.1": "Please enter the search content",
+   "search.tooltip": "More powerful search: search in the original data format, you can search for data not directly displayed in the table, such as email, attachment file type, group link, etc.; the search results will be presented in original data. Note: enable this option The ^$ of the subsequent regular expression will be invalid",
+   "search.usereg": "Search content using regular expressions",
+   "search.detail": "Fine search",
+   "search.table.label": "Search scope - data table",
+   "search.table.desc": "Please select a data table"
+}
